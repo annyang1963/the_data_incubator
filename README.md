@@ -1,1 +1,2 @@
 # the_data_incubator
+This is a proposal for the data incubator program. The core of this project is to determine user’s lifestyle based on the transaction information. The dataset contains features such as user id, name, profile_picture_url, date joined, date transaction created, action of pay or charge and transaction description. Possible methods are machine learning that can classify different activities, food and current status; careful analysis on transaction notes and date transaction created will help identify the details of personality and activity frequency.
